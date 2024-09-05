@@ -22,3 +22,6 @@ out skel qt;
 
 
 Node for schools and Univerisities in Bernalillo County, New Mexico
+
+
+Example exports in repository
