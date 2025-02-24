@@ -1,5 +1,5 @@
 # overpass-turbo
-Scratch Pad tests for extracting Open Street Map data
+extracting Open Street Map data
 
 
 https://overpass-turbo.eu/
